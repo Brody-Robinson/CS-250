@@ -7,6 +7,8 @@ How do I interpret user needs and implement them into a program? How does creati
   -User stories are always the best way to discover the users needs.  This tool helps to understand the end-users perspective and what they want 
    so that we initiate a simple requirement description for them.
 
+
+
 How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
   
   -I will approach developing programs by one of two methodologies; waterfall or agile, depending on the complexity of the program.  For the small,
@@ -15,6 +17,8 @@ How do I approach developing programs? What agile processes do I hope to incorpo
   
   -The agile process that I hope to include in future development work will be Scrum.  I believe that communication is everything, and the Scrum 
    will allow the most opportunity to each team member to express their work, concerns and ideas.
+
+
 
 What does it mean to be a good team member in software development?
   
