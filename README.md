@@ -1,5 +1,5 @@
 # CS-250
-How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?  
+1. How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?  
   
   -The best way to interpret and implement user needs would be through system analysis.  We will need feedback from the users to implement in the 
    in the coding while identifying the inputs and outputs for the system.
@@ -9,7 +9,7 @@ How do I interpret user needs and implement them into a program? How does creati
 
 
 
-How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
+2. How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
   
   -I will approach developing programs by one of two methodologies; waterfall or agile, depending on the complexity of the program.  For the small,
    simple, and set in stone projects, it will be best to go with waterfall to keep things simple and to the point.  For the larger and more complex
@@ -20,7 +20,7 @@ How do I approach developing programs? What agile processes do I hope to incorpo
 
 
 
-What does it mean to be a good team member in software development?
+3. What does it mean to be a good team member in software development?
   
   -The main part of being a good team member in software development is holding yourself accountable.  Before we can help others, we must insure 
    that our work is being completed correctly and on time.  Then would come communication.  Transparently relaying and discussing the aspects of 
