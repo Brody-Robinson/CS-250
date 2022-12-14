@@ -3,6 +3,7 @@ How do I interpret user needs and implement them into a program? How does creati
   
   -The best way to interpret and implement user needs would be through system analysis.  We will need feedback from the users to implement in the 
    in the coding while identifying the inputs and outputs for the system.
+  
   -User stories are always the best way to discover the users needs.  This tool helps to understand the end-users perspective and what they want 
    so that we initiate a simple requirement description for them.
 
@@ -11,6 +12,7 @@ How do I approach developing programs? What agile processes do I hope to incorpo
   -I will approach developing programs by one of two methodologies; waterfall or agile, depending on the complexity of the program.  For the small,
    simple, and set in stone projects, it will be best to go with waterfall to keep things simple and to the point.  For the larger and more complex
    projects I will use an agile aproach, providing flexibility for any changes that may occur during the development process.
+  
   -The agile process that I hope to include in future development work will be Scrum.  I believe that communication is everything, and the Scrum 
    will allow the most opportunity to each team member to express their work, concerns and ideas.
 
